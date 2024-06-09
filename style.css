@@ -1,0 +1,128 @@
+.boxs{
+    background-color: rgb(40, 40, 87);
+    border-radius: 20px;
+    margin: 45px;
+    padding-bottom: 6%;
+}
+.a{
+    display:flex;
+    gap: 138px;
+    padding-left: 130px;
+}
+.x{
+    color:white;
+    background-color:red;
+    font-size: 30px;
+    border-radius: 20px;
+    border: none;
+}
+.img{
+    text-align: center;
+    display: flex;
+    padding: 170px;
+    padding-top: 7%;
+    gap: 130px;
+    width: 450px;
+
+}
+
+.x2{
+    text-align:center;
+}
+.boxs2{
+    text-align:center;
+    text-align: center;
+    color: white;
+    background-color:black;
+    width: 133px;
+    padding: 40px 90px;
+    font-size: 52px;
+    font-weight: 400;
+    border-radius: 30px;
+    margin-left: 40%;
+    margin-top: 0%;
+}
+samp{
+    color: black;
+}
+.e{
+    text-align: center;
+    width: 260px;
+    height: 60px;
+    top: 685px;
+    left: 290px;
+    gap: 0px;
+    opacity: 8px;
+    background-color: #61FF00; 
+    border: 10px;
+    border-color: red; 
+}
+.l{
+    font-size: 15px;
+    margin-left: 10px;
+    width: 300px;
+    height: 109px;
+    top: 657px;
+    left: 270px;
+    gap: 0px;
+    opacity: 8px;
+    background-color: #61FF00; 
+    border: 10px;
+    border-color: red; 
+    
+}
+
+.f{
+    padding-top: 15px;
+    padding-left:
+    35px;
+    margin-left:
+    980px;
+    background-color:red;
+    width: 350px;
+    height: 158px;
+    top: 612px;
+    left: 220px;
+    gap: 0px;
+    border-radius: 30px;
+    opacity: 0px;
+}
+.e2{
+    text-align: center;
+    width: 260px;
+    height: 60px;
+    top: 685px;
+    left: 290px;
+    gap: 0px;
+    opacity: 8px;
+    background-color: #61FF00; 
+    border: 10px;
+    border-color: red; 
+}
+.f2{
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-left: 98px;
+    background-color: red;
+    width: 350px;
+    height: 150px;
+    top: 612px;
+    left: 220px;
+    gap:0px;
+    border-radius: 38px;
+    opacity: 0px;
+    margin-top: -11%;
+    
+}
+.l2{
+    margin-left: 10px;
+    width: 308px;
+    height: 109px;
+    top: 657px;
+    left: 278px;
+    gap: 0px;
+    opacity: 8px;
+    background-color:#61FF00;
+    border: 10px;
+    border-color: red; 
+}
